@@ -1,3 +1,5 @@
+Extend the KineticJS, can do drag and drop to create nodes, links and support force directed layout 
+
 #Building the KineticJS library
 To build the library, you need to have Ruby and Rubygems installed. After that, install the dependencies by running `bundle install`.
 
